@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Mark Goble's Musings 
 description: a collection of resources for data science / R Programming and Salesforce
+github:
+  is_project_page: false
